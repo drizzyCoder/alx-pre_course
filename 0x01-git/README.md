@@ -1,1 +1,1 @@
-We are getting started in alx
+Super exicted to begin my software journey with ALX 
